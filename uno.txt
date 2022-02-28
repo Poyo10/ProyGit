@@ -1,5 +1,5 @@
 uno uno uno
-edicion desde hithub
+edicion desde github
 dos 
 tres
 cuatro

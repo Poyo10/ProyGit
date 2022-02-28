@@ -1,4 +1,4 @@
 tres tres tres
-dos
+dos dos dos
 tres
 cuatro
